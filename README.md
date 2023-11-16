@@ -1,5 +1,5 @@
 # Web_Site_2023-1D
-Web site desenvolvido nas aulas de Pensamento Computacional.
+<h2>coca cola </h2>
 <p>A Coca-Cola é um refrigerante carbonado produzido a partir do extrato de noz de cola.
 
 Mas, você conhece a história da Coca-Cola? Cerca de 40% dos americanos consomem pelo menos uma latinha de refrigerante por dia e, por mais de cem anos, duas companhias lutaram pela supremacia nesse mercado de bebidas: Coca-Cola e Pepsi.
