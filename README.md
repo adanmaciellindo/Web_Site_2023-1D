@@ -1,5 +1,5 @@
 # Web_Site_2023-1D
-<h2>coca cola </h2>
+<h2>Coca Cola </h2>
 <p>A Coca-Cola é um refrigerante carbonado produzido a partir do extrato de noz de cola.
 
 Mas, você conhece a história da Coca-Cola? Cerca de 40% dos americanos consomem pelo menos uma latinha de refrigerante por dia e, por mais de cem anos, duas companhias lutaram pela supremacia nesse mercado de bebidas: Coca-Cola e Pepsi.
@@ -25,7 +25,7 @@ Após a morte de John Pemberton, a história da Coca-Cola tem uma reviravolta.
 Frank Robinson, o contador do falecido farmacêutico, vendeu a fórmula do tônico por U$2,3 mil para Asa Griggs Candler, o homem que transformou a bebida em um ícone de consumo. Como ele fez isso?
 Entre seus primeiros passos, Candler criou a patente da marca Coca-Cola e fundou a corporação The Coca-Cola Company, mas o verdadeiro segredo para o sucesso do empreendimento foi investir em branding e uma boa estratégia de marketing.
 A primeira ação de divulgação da bebida foi distribuir cupons que davam direito a um copo de Coca-Cola grátis, gatilho mental da reciprocidade aqui, percebeu?
-Além disso, foram oferecidos brindes grátis como calendários, relógios, bandeirinhas e outros produtos com o slogan da marca estampado. Até hoje a Coca-Cola é uma das empresas que mais investe em propaganda, somando um investimento total de mais de 2 bilhões de dólares por ano.
+Além disso, foram oferecidos brindes grátis como calendários, relógios, bandeirinhas e outros produtos com o slogan da marca estampado. Até hoje a Coca-Cola é uma das empresas que mais investe em propaganda, somando um investimento total de mais de 2 bilhões de dólares por ano.<p>
    
 
 Coca-Cola lidera ranking de marcas mais consumidas do mundo; 
